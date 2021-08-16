@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 ## Description
 
 Warp jumper is a 2D platformer game developed in Unity. In this game, players must navigate through four levels while avoiding obstacles, fighting enemies, and performing platforming challenges. The player controls a character who can move, attack with a sword, shoot arrows, and throw a magic sword which they can warp to.
