@@ -6,6 +6,10 @@ The magic sword acts as a unique movement mechanic. Players can throw this sword
 
 There are currently 8 completed levels included in the game.
 
+## How to Play
+
+To play the game, open the file "Warp Jumper.exe" in the "WarpJumperBuild" folder.
+
 ## Gameplay Video
 
 Below is a video of the first 4 levels in the game.
