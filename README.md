@@ -13,12 +13,15 @@ Below is a video of the first 4 levels in the game.
 [![Link to YouTube Video](http://img.youtube.com/vi/BO04FCBpCKw/0.jpg)](http://www.youtube.com/watch?v=BO04FCBpCKw "Warp Jumper Gameplay Video")
 
 
-
 ## Resources Used
+
+Music - Abstraction (https://abstractionmusic.com)
 
 Animated Pixel Adventurer - (https://rvros.itch.io/)
 
-SunGoddess - (https://aekashics.itch.io/)
+Sun Goddess Boss - (https://aekashics.itch.io/)
+
+Warrior Boss - (https://clembod.itch.io/)
 
 Bat - "Elthen" (https://www.patreon.com/elthen)
 
@@ -29,4 +32,6 @@ Monster 1 - (https://twitter.com/hugueslaborde)
 Particle Sprites - (https://www.kenney.nl)
 
 Stringstar Fields Tileset - (https://trixelized.itch.io/)
+
+Dungeon Tileset - (https://bakudas.itch.io/)
 
